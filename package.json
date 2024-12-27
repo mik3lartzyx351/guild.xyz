@@ -38,7 +38,7 @@
     "@lexical/list": "^0.12.0",
     "@lexical/markdown": "^0.12.0",
     "@lexical/react": "^0.12.0",
-    "@lexical/rich-text": "^0.12.0",
+    "@lexical/rich-text": "^0.21.0",
     "@lexical/selection": "^0.12.0",
     "@lexical/utils": "^0.12.0",
     "@neynar/nodejs-sdk": "^1.51.0",
