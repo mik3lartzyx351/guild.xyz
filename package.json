@@ -81,7 +81,7 @@
     "@visx/shape": "^3.5.0",
     "@visx/tooltip": "^3.3.0",
     "@zag-js/combobox": "^0.16.0",
-    "@zag-js/react": "^0.16.0",
+    "@zag-js/react": "^0.82.2",
     "chakra-react-select": "4.7.6",
     "class-variance-authority": "^0.7.0",
     "clsx": "^2.1.1",
