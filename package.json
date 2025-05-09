@@ -23,7 +23,7 @@
     "@bugsnag/js": "^7.22.4",
     "@chakra-ui/anatomy": "2.1.2",
     "@chakra-ui/next-js": "2.2.0",
-    "@chakra-ui/react": "2.8.2",
+    "@chakra-ui/react": "2.9.0",
     "@chakra-ui/theme-tools": "2.0.17",
     "@dotlottie/react-player": "^1.6.18",
     "@emotion/react": "^11.11.4",
@@ -124,7 +124,7 @@
     "usehooks-ts": "^3.1.0",
     "uuidv7": "^0.6.3",
     "viem": "^2.21.37",
-    "wagmi": "^2.12.25",
+    "wagmi": "^2.13.2",
     "zod": "^3.22.4"
   },
   "devDependencies": {
