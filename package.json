@@ -113,7 +113,7 @@
     "react-google-recaptcha": "^3.1.0",
     "react-hook-form": "7.43.9",
     "react-live-chat-loader": "^2.9.1",
-    "react-markdown": "^8.0.7",
+    "react-markdown": "^9.0.0",
     "react-window": "^1.8.8",
     "remark-gfm": "^4.0.0",
     "slugify": "^1.6.5",
@@ -124,7 +124,7 @@
     "usehooks-ts": "^3.1.0",
     "uuidv7": "^0.6.3",
     "viem": "^2.21.37",
-    "wagmi": "^2.12.25",
+    "wagmi": "^3.0.0",
     "zod": "^3.22.4"
   },
   "devDependencies": {
